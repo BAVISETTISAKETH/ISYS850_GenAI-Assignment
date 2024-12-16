@@ -89,8 +89,8 @@ Based on the findings, potential future work includes:
 ---
 
 ## Author
-**Sai Saketh Bavisetti**  
-San Francisco State University (SFSU ID: 923746340)  
+**SAI SAKETH BAVISETTI**  
+SAN FRANCISCO STATE UNIVERSITY (SFSU ID: 923746340)  
 This project was conducted as part of the ISYS 850 - Seminar in Business Intelligence coursework under the supervision of Professor Lutfus Sayeed.
 
 ---
